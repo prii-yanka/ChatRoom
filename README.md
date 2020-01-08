@@ -1,3 +1,3 @@
-Calculate Page | Result Page | page
+Welcome Page | Login Page | Chat Page
 -------------------------- | ------------------------- | -------------------------
-![Image of calculate](Screen Shot 2020-01-08 at 3.58.23 PM.png)| ![Image of result](Screen Shot 2020-01-08 at 3.58.33 PM.png) | ![Image of result](Screen Shot 2020-01-08 at 3.58.40 PM.png)
+![Image of welcome](welcome.png)| ![Image of login](login.png) | ![Image of chat](chat.png)
